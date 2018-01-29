@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'rack'
+gem 'puma'
+gem 'alexa_rubykit'
+gem 'dashbot'
+gem 'json'
